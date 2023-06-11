@@ -11,3 +11,4 @@ Space Park is a compelling location, whether you are involved in the space secto
 In 2020, the space sector underpinned approximately 15% of the UK’s economic activity and this is forecast to grow significantly. Space Park aims to support this growth, boosting economic performance in the region, while becoming a strategically important asset in the delivery of the UK’s industrial competitiveness.
 
 To learn more about how you can join our community, [contact us](https://www.space-park.co.uk/contact-us/) to find out more.
+
