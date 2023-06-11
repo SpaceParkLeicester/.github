@@ -12,3 +12,4 @@ In 2020, the space sector underpinned approximately 15% of the UK’s economic a
 
 To learn more about how you can join our community, [contact us](https://www.space-park.co.uk/contact-us/) to find out more.
 
+[<img alt="Watch the Video" width="40px" src="images/Qu7MY2_Xf6Q.jpg" />](https://www.youtube.com/watch?v=Qu7MY2_Xf6Q)
