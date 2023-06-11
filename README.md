@@ -1,6 +1,6 @@
 # .github
 
-## Issues and Pull Requests
+# Issues and Pull Requests
 Please rasie issues or pull requests in a relevant repository.
 
 # New repositories
