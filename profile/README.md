@@ -13,3 +13,15 @@ Building upon the heritage and space-science excellence of the [University of Le
 # Community Members ✨
 
 Thanks go to these wonderful people: 🤝
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://www.linkedin.com/in/kevin-tansey/"><img src="https://github.com/SpaceParkLeicester/.github/blob/main/images/kt.png" width="100px;" alt=""/><br /><sub><b>Prof. Kevin Tansey</b></sub></a><br /><a href="#projectManagement-Kevin" title="Project Management">📆</a></td>
+      <td align="center"><a href="https://github.com/Matthew-J-Payne"><img src="https://github.com/SpaceParkLeicester/.github/blob/main/images/mp.jpeg" width="100px;" alt=""/><br /><sub><b>Dr. Matthew Payne</b></sub></a><br /><a title="Code">💻</a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/bilalmajeeduk/"><img src="https://github.com/SpaceParkLeicester/.github/blob/main/images/bm.jpeg" width="100px;" alt=""/><br /><sub><b>Bilal Majeed</b></sub></a><br /><a title="Code">💻</a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/dr-akram-a-826504229/"><img src="https://github.com/SpaceParkLeicester/.github/blob/main/images/aa.png" width="100px;" alt=""/><br /><sub><b>Dr. Akram Abdulla</b></sub></a><br /><a title="Code">💻</a></td>      
+      <td align="center"><a href="https://github.com/vrym2"><img src="https://avatars.githubusercontent.com/u/93340339?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Raj</b></sub></a><br /><a href="https://github.com/SpaceParkLeicester/Planet/commits?author=vrym2" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
