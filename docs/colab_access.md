@@ -39,10 +39,10 @@ drive.mount('/content/drive')
 # Checking GitHub CLI installation
 !gh --version
 # GitHub auth login with token
-access_token_file = os.path.join("content/drive/MyDrive/secrets/github_access_token.txt")
+access_token_file = os.path.join("/content/drive/MyDrive/secrets/github_access_token.txt")
 if not os.path.exists(access_token_file):
-  print(f"# Git clone 
-!git clone git@github.com:SpaceParkLeicester/PlanetSPL.gitPlease click the link below and create personal access token and put that in {access_token_file}")
+  print(f"Please click the link below and create personal access token and put that in {access_token_file}")
+  print("https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-fine-grained-personal-access-token")
 else:
   !gh auth login --with-token < $access_token_file
 ```
